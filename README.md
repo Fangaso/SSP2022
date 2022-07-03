@@ -34,7 +34,7 @@
    ```yaml
    settings:
      title: '标题'
-     url: 'https://status-page.eidam.dev' # SSP2022 调用地址
+     url: 'https://status.fangaso.com' # SSP2022 调用地址
      logo: logo-192x192.png # 网站LOGO，在 /public 目录下
      daysInHistogram: 90 # 监控周期天数
      collectResponseTimes: false # 实验功能，不懂勿开
