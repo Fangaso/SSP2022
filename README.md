@@ -15,7 +15,7 @@
 
 ### 二、部署在Cloudflare上
 
-[![Deploy to Cloudflare Workers](https://camo.githubusercontent.com/1f3d0b4d44a2c3f12c78bd02bae907169430e04d728006db9f97a4befa64c886/68747470733a2f2f6465706c6f792e776f726b6572732e636c6f7564666c6172652e636f6d2f627574746f6e3f706169643d74727565)](https://deploy.workers.cloudflare.com/?url=https://github.com/fangaso/ssp2022)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?paid=true)](https://deploy.workers.cloudflare.com/?url=https://github.com/fangaso/server-status-panel&paid=true)
 
 1. 单击按钮并按照说明进行操作
 2. 输入相关信息
